@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MehmetUludag
 - 👀 I’m interested in Full Stack Developing
-- 🌱 I’m currently learning HTML-CSS-Javascript-C#
+- 🌱 I’m currently learning HTML-CSS-Javascript-C#-Go
 - 💞️ I’m looking to collaborate on Patika.dev
 - 📫 How to reach me mehmetuludag96@gmail.com
 
