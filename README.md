@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MehmetUludag
-- 🌱 I’m currently learning Java-C#(.Net)-Go-Python
+- 🌱 I’m currently learning Java-C#(.Net)-Go
 - 💞️ I’m looking to collaborate on Patika.dev
 - 📫 How to reach me mehmetuludag96@gmail.com
 
