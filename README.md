@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MehmetUludag
-- 🌱 I’m currently learning Java-C#(.Net)-Selenium
+- 🌱 I’m currently working on Java-C#(.Net)-Selenium-Appium
 - 📫 How to reach me mehmetuludag96@gmail.com
 
 
